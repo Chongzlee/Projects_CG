@@ -1,0 +1,6 @@
+land :
+	https://sketchfab.com/3d-models/crater-city-terrain-0bdacc08da824abda64701698dd5cdd1
+ufo :
+	https://sketchfab.com/3d-models/ufo-doodle-d78d1fff4fdd450791726b3c93a02fdb	
+robot :
+	https://sketchfab.com/3d-models/war-of-the-tripods-9df8ea66182749bd90abc717a9153c53
